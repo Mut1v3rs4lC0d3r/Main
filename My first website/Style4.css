@@ -1,0 +1,21 @@
+.link{
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.5) ;
+}
+body{
+    background-color: rgb(46, 46, 46);
+}
+p{
+    text-align: center;
+    color: white;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+footer{
+    text-align: center;
+    color: white;
+}

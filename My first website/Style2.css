@@ -1,0 +1,27 @@
+.link{
+    text-align: center;
+    background-color: rgb(4, 80, 0) ;
+}
+body{
+    background-image: url(Images/crystal.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    color: rgb(255, 187, 0);
+    text-align: center;
+    font-family: arial, Helvetica, sans-serif;
+}
+
+p{
+    color: rgb(225, 187, 0);
+    text-align: center;
+    font-family:"Lucida Console", "Courier New", monospace;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+Footer{
+    color: rgb(0, 255, 0);
+    text-align: center;
+    font-family: "Lucida Console", "Courier New", monospace;
+}

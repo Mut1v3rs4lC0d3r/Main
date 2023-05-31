@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(46, 46, 46);
+
+}
+body>*{
+    color: white;
+}
+header>*{
+    text-align: center;
+    align-items: center;
+}
+footer{
+    text-align: center;
+}
